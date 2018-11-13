@@ -6,7 +6,7 @@
 
   import (
     "testing"
-    "github.com/gostores/assert"
+    "github.com/govenue/assert"
   )
 
   func TestSomething(t *testing.T) {
@@ -39,7 +39,7 @@ if you assert many times, use the below:
 
   import (
     "testing"
-    "github.com/gostores/assert"
+    "github.com/govenue/assert"
   )
 
   func TestSomething(t *testing.T) {

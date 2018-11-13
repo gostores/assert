@@ -15,7 +15,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/gostores/spew"
+	"github.com/govenue/spew"
 )
 
 type TestingT interface {
